@@ -1,2 +1,2 @@
-# study-group-repo
+# mini-project-1
 Practice Repo 
